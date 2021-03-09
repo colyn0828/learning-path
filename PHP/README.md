@@ -1,0 +1,1 @@
+How PHP works
