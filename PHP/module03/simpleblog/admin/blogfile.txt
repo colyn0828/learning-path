@@ -1,0 +1,17 @@
+
+<div class="post-preview">
+	<a href='../post.html'>
+	<h2 class="post-title">Ace's Test 5</h2>
+	<h3 class="post-subtitle">Web Developer</h3>
+</a>
+	<p class="post-timedate">Aces Test</p>
+	<p class="post-message">Monday, January 25, 2021 @ 12:18 pm</p>
+</div>
+<div class="post-preview">
+	<a href='../post.html'>
+	<h2 class="post-title">I believe every human has a finite number of heartbeats. I don't intend to waste any of mine</h2>
+	<h3 class="post-subtitle">We predict too much for the next year and yet far too little for the next ten</h3>
+</a>
+	<p class="post-timedate">Posted by mgao7</p>
+	<p class="post-message">Friday, January 22, 2021 @ 12:02 am</p>
+</div>
